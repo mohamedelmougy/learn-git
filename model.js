@@ -1,1 +1,1 @@
-console.log("Schema")
+console.log("Schema & model")
