@@ -1,9 +1,9 @@
-console.log("resver run")
+console.log("server run")
 console.log("second change")
 console.log("second change")
 console.log("second change")
-(function () {
+const log = (function () {
     return function () {
-        return console.log("hello world")  
-    }
+        return console.log("hello world")
+    }()
 })()
