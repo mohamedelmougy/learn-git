@@ -14,6 +14,17 @@ console.log("second change")
 console.log("second change")
 console.log("second change")
 console.log("second change")
+console.log("second change")
+console.log("second change")
+console.log("second change")
+console.log("second change")
+console.log("second change")
+console.log("second change")
+console.log("second change")
+console.log("second change")
+console.log("second change")
+console.log("second change")
+console.log("second change")
 
 const log = (function () {
     return function () {
