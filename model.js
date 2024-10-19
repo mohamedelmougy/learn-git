@@ -12,8 +12,6 @@ console.log("in main branch")
 console.log("in main branch")
 console.log("in main branch")
 console.log("in main branch")
-console.log("in main branch")
-console.log("in main branch")
 
 console.log("run")
 console.log("in b1 branch")
